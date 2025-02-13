@@ -1,0 +1,228 @@
+﻿Country,IM_rate,Ranking,Region
+Afghanistan,103.06,1,South Asia
+Somalia,85.06,2,Africa
+Central African Republic,81.74,3,Africa
+Equatorial Guinea,77.85,4,Africa
+Sierra Leone,72.3,5,Africa
+Niger,65.53,6,Africa
+Chad,63.99,7,Africa
+South Sudan,61.63,8,Africa
+Mozambique,59.77,9,Africa
+Democratic Republic of the Congo,59.12,10,Africa
+Mali,58.99,11,Africa
+Angola,57.2,12,Africa
+Comoros,56.01,13,Africa
+Nigeria,55.17,14,Africa
+Benin,54.33,15,Africa
+Côte d'Ivoire,54.04,16,Africa
+Pakistan,52.73,17,South Asia
+Mauritania,49.95,18,Africa
+Guinea,48.32,19,Africa
+Burkina Faso,48.17,20,Africa
+Guinea-Bissau,47.69,21,Africa
+Cameroon,47.4,22,Africa
+Lesotho,47.04,23,Africa
+"Congo, Republic of the",46.62,24,Africa
+Djibouti,46.02,25,Africa
+Yemen,45.54,26,Middle East
+Sao Tome and Principe,43.48,27,Africa
+Liberia,43.2,28,Africa
+Sudan,41.4,29,Africa
+Eritrea,40.63,30,Africa
+Togo,39.79,31,Africa
+Haiti,38.78,32,Central America and the Caribbean
+Madagascar,38.27,33,Africa
+Eswatini,38.12,34,Africa
+Burundi,36.75,35,Africa
+Turkmenistan,36.72,36,Central Asia
+Laos,36.56,37,East and Southeast Asia
+"Gambia, The",36.44,38,Africa
+Zambia,36.33,39,Africa
+Timor-Leste,32.93,40,East and Southeast Asia
+Papua New Guinea,32.81,41,East and Southeast Asia
+Malawi,32.68,42,Africa
+Ethiopia,32.44,43,Africa
+Kiribati,32.2,44,Australia and Oceania
+Myanmar,32.2,45,East and Southeast Asia
+Ghana,31.87,46,Africa
+Senegal,31.75,47,Africa
+Tajikistan,31.62,48,Central Asia
+India,30.36,49,South Asia
+United Republic of Tanzania,30.25,50,Africa
+Suriname,29.91,51,South America
+Bangladesh,29.58,52,South Asia
+Uganda,29.44,53,Africa
+Cambodia,28.75,54,East and Southeast Asia
+Namibia,28.49,55,Africa
+Tuvalu,28.32,56,Australia and Oceania
+Gabon,27.7,57,Africa
+Zimbabwe,27.67,58,Africa
+Kenya,26.94,59,Africa
+Rwanda,25.64,60,Africa
+Bhutan,25.61,61,South Asia
+Guatemala,25.57,62,Central America and the Caribbean
+Kyrgyzstan,25.08,63,Central Asia
+Maldives,25.02,64,South Asia
+South Africa,24.99,65,Africa
+Kosovo,24.93,66,Europe
+Nepal,24.55,67,South Asia
+Botswana,24.41,68,Africa
+Cabo Verde,22.96,69,Africa
+Azerbaijan,22.93,70,Middle East
+Paraguay,22.6,71,South America
+Bolivia,22.28,72,South America
+Philippines,22.14,73,East and Southeast Asia
+"Korea, North",22,74,East and Southeast Asia
+Guyana,21.63,75,South America
+"Micronesia, Federated States of",21.37,76,Australia and Oceania
+Marshall Islands,21.13,77,Australia and Oceania
+Dominican Republic,20.68,78,Central America and the Caribbean
+Mongolia,19.77,79,East and Southeast Asia
+Solomon Islands,19.53,80,Australia and Oceania
+Indonesia,19.31,81,East and Southeast Asia
+Algeria,19.22,82,Africa
+Iraq,19.17,83,Middle East
+Türkiye,18.85,84,Middle East
+Kazakhstan,18.77,85,Central Asia
+Morocco,18.73,86,Africa
+Nicaragua,18.63,87,Central America and the Caribbean
+"Saint Helena, Ascension, and Tristan da Cunha",18.62,88,Africa
+Uzbekistan,18.55,89,Central Asia
+Samoa,17.76,90,Australia and Oceania
+Ecuador,17.72,91,South America
+Egypt,17.27,92,Africa
+Cook Islands,15.53,93,Australia and Oceania
+Syria,15.48,94,Middle East
+Trinidad and Tobago,15.44,95,Central America and the Caribbean
+Panama,15.28,96,Central America and the Caribbean
+West Bank,14.91,97,Middle East
+Gaza Strip,14.87,98,Middle East
+Honduras,14.77,99,Central America and the Caribbean
+Iran (Islamic Republic of),14.58,100,Middle East
+Georgia,14.45,101,Middle East
+Viet Nam,14.42,102,East and Southeast Asia
+Oman,14.16,103,Middle East
+Venezuela,14.1,104,South America
+Vanuatu,14,105,Australia and Oceania
+Antigua and Barbuda,13.95,106,Central America and the Caribbean
+British Virgin Islands,13.77,107,Central America and the Caribbean
+Jordan,13.56,108,Middle East
+Brazil,13.11,109,South America
+Saint Vincent and the Grenadines,12.59,110,Central America and the Caribbean
+"Bahamas, The",12.52,111,Central America and the Caribbean
+Northern Mariana Islands,12.17,112,Australia and Oceania
+Tonga,12.1,113,Australia and Oceania
+Mexico,12,114,North America
+Saudi Arabia,11.97,115,Middle East
+El Salvador,11.9,116,Central America and the Caribbean
+Armenia,11.89,117,Middle East
+Mauritius,11.84,118,Africa
+Aruba,11.79,119,Central America and the Caribbean
+Saint Lucia,11.75,120,Central America and the Caribbean
+Colombia,11.65,121,South America
+Tunisia,11.57,122,Africa
+Moldova,11.38,123,Europe
+Turks and Caicos Islands,11.32,124,Central America and the Caribbean
+Guam,11.2,125,Australia and Oceania
+Palau,11.04,126,Australia and Oceania
+Dominica,11,127,Central America and the Caribbean
+Libya,10.95,128,Africa
+Jamaica,10.92,129,Central America and the Caribbean
+Belize,10.9,130,Central America and the Caribbean
+Peru,10.8,131,South America
+Albania,10.54,132,Europe
+Seychelles,10.38,133,Africa
+Brunei,10.26,134,East and Southeast Asia
+Montserrat,10.04,135,Central America and the Caribbean
+Bahrain,9.98,136,Middle East
+American Samoa,9.87,137,Australia and Oceania
+Fiji,9.85,138,Australia and Oceania
+Barbados,9.79,139,Central America and the Caribbean
+Grenada,9.2,140,Central America and the Caribbean
+Argentina,9.14,141,South America
+Greenland,8.6,142,North America
+Croatia,8.58,143,Europe
+Costa Rica,8.2,144,Central America and the Caribbean
+Cyprus,8.2,145,Europe
+Saint Kitts and Nevis,8.19,146,Central America and the Caribbean
+Uruguay,8.14,147,South America
+Sri Lanka,8.04,148,South Asia
+Saint Pierre and Miquelon,7.97,149,North America
+Bulgaria,7.82,150,Europe
+Sint Maarten,7.81,151,Central America and the Caribbean
+Nauru,7.72,152,Australia and Oceania
+Curacao,7.7,153,Central America and the Caribbean
+Virgin Islands,7.49,154,Central America and the Caribbean
+Cayman Islands,7.47,155,Central America and the Caribbean
+Kuwait,7.27,156,Middle East
+Ukraine,7.21,157,Europe
+North Macedonia,7.16,158,Europe
+Lebanon,6.88,159,Middle East
+Saint Martin,6.58,160,Central America and the Caribbean
+Saint Barthelemy,6.58,161,Central America and the Caribbean
+China,6.49,162,East and Southeast Asia
+Malaysia,6.49,163,East and Southeast Asia
+Qatar,6.46,164,Middle East
+Chile,6.41,165,South America
+San Marino,6.36,166,Europe
+Thailand,6.36,167,East and Southeast Asia
+Russia,6.33,168,Central Asia
+Gibraltar,6.13,169,Europe
+Puerto Rico,5.92,170,Central America and the Caribbean
+Faroe Islands,5.86,171,Europe
+Romania,5.65,172,Europe
+United States,5.12,173,North America
+Bosnia and Herzegovina,5.1,174,Europe
+United Arab Emirates,5.06,175,Middle East
+New Caledonia,4.92,176,Australia and Oceania
+Latvia,4.78,177,Europe
+Slovakia,4.74,178,Europe
+Serbia,4.55,179,Europe
+Hungary,4.55,180,Europe
+Macau,4.5,181,East and Southeast Asia
+Malta,4.45,182,Europe
+French Polynesia,4.34,183,Australia and Oceania
+Canada,4.31,184,North America
+Isle of Man,4.16,185,Europe
+Poland,4.1,186,Europe
+Cuba,4.07,187,Central America and the Caribbean
+Liechtenstein,3.98,188,Europe
+Wallis and Futuna,3.94,189,Australia and Oceania
+Taiwan,3.9,190,East and Southeast Asia
+Jersey,3.81,191,Europe
+United Kingdom,3.79,192,Europe
+Lithuania,3.61,193,Europe
+Switzerland,3.51,194,Europe
+Greece,3.49,195,Europe
+Israel,3.49,196,Middle East
+Ireland,3.41,197,Europe
+New Zealand,3.39,198,Australia and Oceania
+Andorra,3.39,199,Europe
+Estonia,3.38,200,Europe
+Netherlands,3.34,201,Europe
+Guernsey,3.3,202,Europe
+Belarus,3.23,203,Europe
+Luxembourg,3.21,204,Europe
+Austria,3.2,205,Europe
+Montenegro,3.2,206,Europe
+Belgium,3.15,207,Europe
+Germany,3.14,208,Europe
+Italy,3.11,209,Europe
+France,3.1,210,Europe
+Anguilla,3.02,211,Central America and the Caribbean
+Denmark,3,212,Europe
+Australia,2.96,213,Australia and Oceania
+"Korea, South",2.83,214,East and Southeast Asia
+Hong Kong,2.52,215,East and Southeast Asia
+Portugal,2.47,216,Europe
+Spain,2.43,217,Europe
+Czechia,2.37,218,Europe
+Norway,2.28,219,Europe
+Sweden,2.28,220,Europe
+Bermuda,2.17,221,North America
+Finland,2.11,222,Europe
+Japan,1.88,223,East and Southeast Asia
+Monaco,1.75,224,Europe
+Iceland,1.63,225,Europe
+Singapore,1.54,226,East and Southeast Asia
+Slovenia,1.51,227,Europe
